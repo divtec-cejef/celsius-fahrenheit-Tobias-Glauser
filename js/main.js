@@ -21,7 +21,5 @@ function convertirDegresCToF(temperature){
   }
   alert(`${temperature}°C = ${convertirDegresCToF(temperature)}°F`);
 
-  const a = 'bonjour';
-  console.log(a);
 }()); // Main IIFE
 
